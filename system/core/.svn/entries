@@ -1,306 +1,0 @@
-10
-
-dir
-4803
-https://10.1.36.9:4430/svn_repos/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core
-https://10.1.36.9:4430/svn_repos
-
-
-
-2013-12-04T22:39:27.575783Z
-4803
-paramod
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1a782012-090f-7148-b8aa-deb7117e9e39
-
-libsparse
-dir
-
-toolbox
-dir
-
-debuggerd
-dir
-
-libcorkscrew
-dir
-
-libzipfile
-dir
-
-libcutils
-dir
-
-libnetutils
-dir
-
-.git
-dir
-
-libdiskconfig
-dir
-
-libsuspend
-dir
-
-liblog
-dir
-
-libion
-dir
-
-libnl_2
-dir
-
-fastboot
-dir
-
-include
-dir
-
-libsysutils
-dir
-
-Android.mk
-file
-
-
-
-
-2013-12-03T03:19:06.882863Z
-8de726000059bff0e0e9ca4246f957e7
-2013-12-04T22:39:27.575783Z
-4803
-paramod
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-681
-
-adb
-dir
-
-gpttool
-dir
-
-mkbootimg
-dir
-
-cpio
-dir
-
-libmincrypt
-dir
-
-README
-file
-
-
-
-
-2013-12-03T03:19:06.594863Z
-cee59231573e0dff09521829efe6a5c7
-2013-12-04T22:39:27.575783Z
-4803
-paramod
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-764
-
-sdcard
-dir
-
-ThirdPartyProject.prop
-file
-
-
-
-
-2013-12-03T03:19:04.242863Z
-4e5987c5919a36739dc8f76a4e35d9eb
-2013-12-04T22:39:27.575783Z
-4803
-paramod
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-249
-
-libsync
-dir
-
-init
-dir
-
-CleanSpec.mk
-file
-
-
-
-
-2013-12-03T03:19:09.998863Z
-998b681a09872f7cf3a2618f5bdd8b09
-2013-12-04T22:39:27.575783Z
-4803
-paramod
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2346
-
-.gitignore
-file
-
-
-
-
-2013-12-03T03:19:05.842863Z
-9f4b2277f50a412e56de6e0306f4afb8
-2013-12-04T22:39:27.575783Z
-4803
-paramod
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3
-
-run-as
-dir
-
-netcfg
-dir
-
-logcat
-dir
-
-libctest
-dir
-
-sh
-dir
-
-charger
-dir
-
-liblinenoise
-dir
-
-fs_mgr
-dir
-
-libusbhost
-dir
-
-libpixelflinger
-dir
-
-logwrapper
-dir
-
-rootdir
-dir
-
