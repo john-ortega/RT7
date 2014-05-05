@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse
+END
+sparse_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/sparse_format.h
+END
+simg2img.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/simg2img.c
+END
+img2simg.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/img2simg.c
+END
+backed_block.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/backed_block.c
+END
+backed_block.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/backed_block.h
+END
+sparse_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/sparse_read.c
+END
+sparse_crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/sparse_crc32.c
+END
+simg_dump.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/simg_dump.py
+END
+sparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/sparse.c
+END
+sparse_crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/sparse_crc32.h
+END
+output_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/output_file.c
+END
+sparse_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/sparse_file.h
+END
+simg2simg.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/simg2simg.c
+END
+sparse_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/sparse_defs.h
+END
+output_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/output_file.h
+END
+sparse_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/sparse_err.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libsparse/Android.mk
+END

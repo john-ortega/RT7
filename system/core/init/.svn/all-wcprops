@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init
+END
+ueventd.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/ueventd.c
+END
+keywords.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/keywords.h
+END
+ueventd.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/ueventd.h
+END
+init_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/init_parser.c
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/devices.c
+END
+init_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/init_parser.h
+END
+ueventd_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/ueventd_parser.c
+END
+grab-bootchart.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/grab-bootchart.sh
+END
+devices.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/devices.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/readme.txt
+END
+ueventd_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/ueventd_parser.h
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/parser.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/parser.h
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/init.c
+END
+property_service.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/property_service.c
+END
+watchdogd.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/watchdogd.c
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/init.h
+END
+property_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/property_service.h
+END
+watchdogd.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/watchdogd.h
+END
+signal_handler.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/signal_handler.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/util.c
+END
+signal_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/signal_handler.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/util.h
+END
+bootchart.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/bootchart.c
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/log.h
+END
+MODULE_LICENSE_APACHE2
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/MODULE_LICENSE_APACHE2
+END
+builtins.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/builtins.c
+END
+bootchart.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/bootchart.h
+END
+keychords.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/keychords.c
+END
+logo.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/logo.c
+END
+keychords.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/keychords.h
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/NOTICE
+END
+README.BOOTCHART
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/README.BOOTCHART
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/init/Android.mk
+END
