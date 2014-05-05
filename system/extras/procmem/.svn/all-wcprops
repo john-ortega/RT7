@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/procmem
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/procmem/NOTICE
+END
+procmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/procmem/procmem.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/procmem/Android.mk
+END
+MODULE_LICENSE_APACHE2
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/procmem/MODULE_LICENSE_APACHE2
+END

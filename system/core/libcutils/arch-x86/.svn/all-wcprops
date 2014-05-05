@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/arch-x86
+END
+android_memset32.S
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/arch-x86/android_memset32.S
+END
+android_memset16.S
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/arch-x86/android_memset16.S
+END
+cache_wrapper.S
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/arch-x86/cache_wrapper.S
+END
+sse2-memset32-atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/arch-x86/sse2-memset32-atom.S
+END
+sse2-memset16-atom.S
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/arch-x86/sse2-memset16-atom.S
+END

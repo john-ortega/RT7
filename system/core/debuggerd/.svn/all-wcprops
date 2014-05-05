@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd
+END
+vfp.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/vfp.S
+END
+tombstone.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/tombstone.h
+END
+backtrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/backtrace.c
+END
+vfp-crasher.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/vfp-crasher.c
+END
+getevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/getevent.c
+END
+backtrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/backtrace.h
+END
+getevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/getevent.h
+END
+crasher.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/crasher.c
+END
+debuggerd.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/debuggerd.c
+END
+MODULE_LICENSE_APACHE2
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/MODULE_LICENSE_APACHE2
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/NOTICE
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/utility.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/Android.mk
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/utility.h
+END
+machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/machine.h
+END
+tombstone.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/debuggerd/tombstone.c
+END

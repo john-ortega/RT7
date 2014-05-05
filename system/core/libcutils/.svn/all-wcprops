@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils
+END
+debugger.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/debugger.c
+END
+ashmem-host.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/ashmem-host.c
+END
+socket_loopback_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/socket_loopback_server.c
+END
+MODULE_LICENSE_APACHE2
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/MODULE_LICENSE_APACHE2
+END
+record_stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/record_stream.c
+END
+qsort_r_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/qsort_r_compat.c
+END
+uio.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/uio.c
+END
+qtaguid.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/qtaguid.c
+END
+trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/trace.c
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/NOTICE
+END
+socket_local_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/socket_local_client.c
+END
+native_handle.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/native_handle.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/Android.mk
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/memory.c
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/fs.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/buffer.c
+END
+str_parms.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/str_parms.c
+END
+open_memstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/open_memstream.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/list.c
+END
+sockets.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/sockets.c
+END
+atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/atomic.c
+END
+load_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/load_file.c
+END
+array.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/array.c
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/buffer.h
+END
+abort_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/abort_socket.c
+END
+dir_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/dir_hash.c
+END
+strdup16to8.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/strdup16to8.c
+END
+strdup8to16.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/strdup8to16.c
+END
+config_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/config_utils.c
+END
+ashmem-dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/ashmem-dev.c
+END
+socket_local_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/socket_local_server.c
+END
+partition_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/partition_utils.c
+END
+multiuser.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/multiuser.c
+END
+android_reboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/android_reboot.c
+END
+threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/threads.c
+END
+properties.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/properties.c
+END
+klog.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/klog.c
+END
+iosched_policy.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/iosched_policy.c
+END
+socket_network_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/socket_network_client.c
+END
+socket_loopback_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/socket_loopback_client.c
+END
+cpu_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/cpu_info.c
+END
+sched_policy.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/sched_policy.c
+END
+socket_inaddr_any_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/socket_inaddr_any_server.c
+END
+uevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/uevent.c
+END
+dlmalloc_stubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/dlmalloc_stubs.c
+END
+socket_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/socket_local.h
+END
+mq.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/mq.c
+END
+loghack.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/loghack.h
+END
+process_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/process_name.c
+END
+selector.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/selector.c
+END
+hashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/hashmap.c
+END
+zygote.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libcutils/zygote.c
+END

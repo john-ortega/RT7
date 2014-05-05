@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/liblog
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/liblog/NOTICE
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/liblog/Android.mk
+END
+fake_log_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/liblog/fake_log_device.c
+END
+event_tag_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/liblog/event_tag_map.c
+END
+logprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/liblog/logprint.c
+END
+logd_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/liblog/logd_write.c
+END
