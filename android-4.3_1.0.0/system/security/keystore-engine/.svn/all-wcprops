@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/security/keystore-engine
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/security/keystore-engine/Android.mk
+END
+eng_keystore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/security/keystore-engine/eng_keystore.cpp
+END

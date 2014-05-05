@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_utils/include/audio_utils
+END
+resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_utils/include/audio_utils/resampler.h
+END
+primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_utils/include/audio_utils/primitives.h
+END
+echo_reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_utils/include/audio_utils/echo_reference.h
+END
+fixedfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_utils/include/audio_utils/fixedfft.h
+END
+sndfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_utils/include/audio_utils/sndfile.h
+END

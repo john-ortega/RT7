@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils
+END
+VectorImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/VectorImpl.cpp
+END
+SharedBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/SharedBuffer.h
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/Vector.h
+END
+SortedVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/SortedVector.h
+END
+KeyedVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/KeyedVector.h
+END
+TypeHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/TypeHelpers.h
+END
+VectorImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/VectorImpl.h
+END
+smartpointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/smartpointer.h
+END
+SharedBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/SharedBuffer.cpp
+END
+Errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/libpixelflinger/codeflinger/tinyutils/Errors.h
+END

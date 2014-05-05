@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/netcfg
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/netcfg/NOTICE
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/netcfg/Android.mk
+END
+netcfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/netcfg/netcfg.c
+END
+MODULE_LICENSE_APACHE2
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/core/netcfg/MODULE_LICENSE_APACHE2
+END

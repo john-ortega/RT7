@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects
+END
+effect_visualizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_visualizer.h
+END
+effect_bassboost.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_bassboost.h
+END
+effect_ns.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_ns.h
+END
+effect_virtualizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_virtualizer.h
+END
+effect_equalizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_equalizer.h
+END
+effect_downmix.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_downmix.h
+END
+effect_environmentalreverb.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_environmentalreverb.h
+END
+effect_aec.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_aec.h
+END
+effect_presetreverb.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_presetreverb.h
+END
+audio_effects_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/audio_effects_conf.h
+END
+effect_agc.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/media/audio_effects/include/audio_effects/effect_agc.h
+END

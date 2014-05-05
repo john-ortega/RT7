@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/bluetooth/brcm_patchram_plus
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/bluetooth/brcm_patchram_plus/Android.mk
+END
+brcm_patchram_plus.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/bluetooth/brcm_patchram_plus/brcm_patchram_plus.c
+END

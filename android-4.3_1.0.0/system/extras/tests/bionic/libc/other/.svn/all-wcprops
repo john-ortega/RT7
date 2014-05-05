@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other
+END
+test_arc4random.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_arc4random.c
+END
+test_vfprintf_leak.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_vfprintf_leak.c
+END
+bench_locks.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/bench_locks.c
+END
+test_thread_max.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_thread_max.c
+END
+test_atomics.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_atomics.c
+END
+test_zlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_zlib.c
+END
+test_timer_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_timer_create.c
+END
+test_sysconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_sysconf.c
+END
+test_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_system.c
+END
+test_jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_jpeg.c
+END
+test_timer_create2.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_timer_create2.c
+END
+test_timer_create3.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4803/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/system/extras/tests/bionic/libc/other/test_timer_create3.c
+END
