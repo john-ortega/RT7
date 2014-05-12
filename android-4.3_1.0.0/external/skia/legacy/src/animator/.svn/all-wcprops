@@ -1,0 +1,965 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator
+END
+SkScriptCallBack.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkScriptCallBack.h
+END
+SkTDArray_Experimental.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkTDArray_Experimental.h
+END
+SkDisplayTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayTypes.cpp
+END
+SkOperand.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkOperand.h
+END
+SkAnimateMaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateMaker.cpp
+END
+SkDisplayable.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayable.h
+END
+SkTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkTime.cpp
+END
+SkBoundable.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkBoundable.h
+END
+SkOperandInterpolator.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkOperandInterpolator.h
+END
+SkDrawClip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawClip.cpp
+END
+SkDisplayType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayType.cpp
+END
+SkDrawPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawPath.cpp
+END
+SkAnimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimator.cpp
+END
+SkDrawGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawGradient.cpp
+END
+SkDisplayRandom.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayRandom.h
+END
+SkPathParts.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkPathParts.h
+END
+SkExtraPathEffects.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkExtraPathEffects.xsd
+END
+SkDisplayEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayEvent.h
+END
+SkGetCondensedInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkGetCondensedInfo.cpp
+END
+SkDrawOval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawOval.cpp
+END
+SkDrawDiscrete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawDiscrete.cpp
+END
+thingstodo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/thingstodo.txt
+END
+SkDraw3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDraw3D.cpp
+END
+SkDrawShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawShader.h
+END
+SkDisplayEvents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayEvents.cpp
+END
+SkBoundable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkBoundable.cpp
+END
+SkXMLAnimatorWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkXMLAnimatorWriter.h
+END
+SkBuildCondensedInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkBuildCondensedInfo.cpp
+END
+SkDisplayTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayTypes.h
+END
+SkHitClear.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkHitClear.h
+END
+SkDrawColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawColor.h
+END
+SkDrawText.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawText.cpp
+END
+SkAnimateMaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateMaker.h
+END
+SkDrawTo.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawTo.h
+END
+SkDisplayMovie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayMovie.cpp
+END
+SkDrawEmboss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawEmboss.cpp
+END
+SkDisplayEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayEvent.cpp
+END
+SkParseSVGPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkParseSVGPath.cpp
+END
+SkScriptRuntime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkScriptRuntime.cpp
+END
+SkCondensedDebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkCondensedDebug.cpp
+END
+SkDrawGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawGroup.cpp
+END
+SkDisplayAdd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayAdd.cpp
+END
+SkDrawPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawPath.h
+END
+SkDrawTextBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawTextBox.h
+END
+SkDrawable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawable.cpp
+END
+SkDrawRectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawRectangle.cpp
+END
+SkAnimatorScript2.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimatorScript2.h
+END
+SkHitTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkHitTest.h
+END
+SkDrawBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawBitmap.cpp
+END
+SkDisplayInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayInput.h
+END
+SkPaintParts.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkPaintParts.h
+END
+SkHitClear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkHitClear.cpp
+END
+SkDisplayEvents.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayEvents.h
+END
+SkDisplayScreenplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayScreenplay.h
+END
+SkDrawDash.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawDash.h
+END
+SkTextToPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkTextToPath.cpp
+END
+SkDrawLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawLine.cpp
+END
+SkDrawText.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawText.h
+END
+SkDrawSaveLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawSaveLayer.cpp
+END
+SkAnimateBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateBase.cpp
+END
+SkDrawTextBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawTextBox.cpp
+END
+SkDrawEmboss.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawEmboss.h
+END
+SkDisplayInclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayInclude.h
+END
+SkDisplayNumber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayNumber.cpp
+END
+SkDrawGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawGroup.h
+END
+SkDrawFull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawFull.cpp
+END
+SkDisplayApply.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayApply.h
+END
+SkDisplayPost.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayPost.h
+END
+SkDisplayAdd.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayAdd.h
+END
+SkDisplayBounds.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayBounds.h
+END
+SkScriptDecompile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkScriptDecompile.cpp
+END
+SkDrawRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawRectangle.h
+END
+SkDrawPaint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawPaint.cpp
+END
+SkTypedArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkTypedArray.h
+END
+SkDisplayScreenplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayScreenplay.cpp
+END
+SkDrawBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawBitmap.h
+END
+SkAnimateProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateProperties.h
+END
+SkDisplayList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayList.cpp
+END
+SkPostParts.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkPostParts.h
+END
+SkDrawClip.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawClip.h
+END
+SkDisplayApply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayApply.cpp
+END
+SkAnimateSchema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateSchema.xsd
+END
+SkDisplayPost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayPost.cpp
+END
+SkOpArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkOpArray.cpp
+END
+SkDrawMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawMatrix.cpp
+END
+SkDisplayNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayNumber.h
+END
+SkDrawShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawShader.cpp
+END
+SkXMLAnimatorWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkXMLAnimatorWriter.cpp
+END
+SkDrawColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawColor.cpp
+END
+SkAnimateSchema.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateSchema.xsx
+END
+SkPostParts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkPostParts.cpp
+END
+SkDrawTo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawTo.cpp
+END
+SkAnimatorScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimatorScript.h
+END
+SkSnapshot.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkSnapshot.h
+END
+SkDump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDump.cpp
+END
+SkScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkScript.h
+END
+SkDisplayMovie.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayMovie.h
+END
+SkDrawPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawPoint.h
+END
+SkAnimate.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimate.h
+END
+SkHitTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkHitTest.cpp
+END
+SkDrawable.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawable.h
+END
+SkDrawMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawMatrix.h
+END
+SkMemberInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkMemberInfo.h
+END
+SkDisplayable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayable.cpp
+END
+SkAnimateSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateSet.cpp
+END
+SkDrawExtraPathEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawExtraPathEffect.cpp
+END
+SkTextOnPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkTextOnPath.cpp
+END
+SkAnimatorScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimatorScript.cpp
+END
+SkSnapshot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkSnapshot.cpp
+END
+SkDrawPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawPoint.cpp
+END
+SkDisplayXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayXMLParser.h
+END
+SkDrawLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawLine.h
+END
+SkAnimateActive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateActive.cpp
+END
+SkDrawSaveLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawSaveLayer.h
+END
+SkAnimateBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateBase.h
+END
+SkDisplayBounds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayBounds.cpp
+END
+SkDrawBlur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawBlur.cpp
+END
+SkMemberInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkMemberInfo.cpp
+END
+SkDisplayMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayMath.h
+END
+SkTypedArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkTypedArray.cpp
+END
+SkDrawDiscrete.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawDiscrete.h
+END
+SkDraw3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDraw3D.h
+END
+SkDrawPaint.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawPaint.h
+END
+SkAnimateSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateSet.h
+END
+SkScriptTokenizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkScriptTokenizer.cpp
+END
+SkAnimate3DSchema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimate3DSchema.xsd
+END
+SkDisplayXMLParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayXMLParser.cpp
+END
+SkTextOnPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkTextOnPath.h
+END
+SkDrawTransparentShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawTransparentShader.cpp
+END
+SkDisplayList.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayList.h
+END
+SkScriptRuntime.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkScriptRuntime.h
+END
+SkMatrixParts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkMatrixParts.cpp
+END
+SkAnimateActive.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateActive.h
+END
+SkDisplayMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayMath.cpp
+END
+SkOperand2.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkOperand2.h
+END
+SkAnimatorScript2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimatorScript2.cpp
+END
+SkAnimateField.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimateField.cpp
+END
+SkOpArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkOpArray.h
+END
+SkDisplayInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayInput.cpp
+END
+SkPaintParts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkPaintParts.cpp
+END
+SkAnimate3DSchema.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkAnimate3DSchema.xsx
+END
+SkDrawBlur.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawBlur.h
+END
+SkScript2.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkScript2.h
+END
+SkDrawDash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawDash.cpp
+END
+SkIntArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkIntArray.h
+END
+SkCondensedRelease.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkCondensedRelease.cpp
+END
+SkScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkScript.cpp
+END
+SkDisplayRandom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayRandom.cpp
+END
+SkPathParts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkPathParts.cpp
+END
+SkDisplayInclude.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayInclude.cpp
+END
+SkTextToPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkTextToPath.h
+END
+SkDump.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDump.h
+END
+SkExtras.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkExtras.h
+END
+SkDrawTransparentShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawTransparentShader.h
+END
+SkDisplayType.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDisplayType.h
+END
+SkOperandIterpolator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkOperandIterpolator.cpp
+END
+SkDrawGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawGradient.h
+END
+SkMatrixParts.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkMatrixParts.h
+END
+SkDrawOval.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawOval.h
+END
+SkDrawFull.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/animator/SkDrawFull.h
+END

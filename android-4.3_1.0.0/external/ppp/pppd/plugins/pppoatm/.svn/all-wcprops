@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm
+END
+atm.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/atm.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/COPYING
+END
+text2atm.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/text2atm.c
+END
+text2qos.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/text2qos.c
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/Makefile.linux
+END
+atmsap.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/atmsap.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/misc.c
+END
+atmres.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/atmres.h
+END
+pppoatm.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/pppoatm.c
+END
+ans.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/pppoatm/ans.c
+END

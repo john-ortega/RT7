@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images
+END
+SkFlipPixelRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkFlipPixelRef.h
+END
+SkImageRef_GlobalPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkImageRef_GlobalPool.h
+END
+SkJpegUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkJpegUtility.h
+END
+SkPageFlipper.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkPageFlipper.h
+END
+SkImageRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkImageRef.h
+END
+SkMovie.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkMovie.h
+END
+SkImageEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkImageEncoder.h
+END
+SkBitmapFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkBitmapFactory.h
+END
+SkImages.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkImages.h
+END
+SkBitmapRegionDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkBitmapRegionDecoder.h
+END
+SkImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/images/SkImageDecoder.h
+END

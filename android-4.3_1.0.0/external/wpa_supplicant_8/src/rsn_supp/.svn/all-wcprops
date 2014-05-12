@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp
+END
+pmksa_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/pmksa_cache.h
+END
+peerkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/peerkey.c
+END
+wpa_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/wpa_i.h
+END
+wpa_ie.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/wpa_ie.c
+END
+tdls.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/tdls.c
+END
+wpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/wpa.c
+END
+preauth.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/preauth.c
+END
+peerkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/peerkey.h
+END
+wpa_ie.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/wpa_ie.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/Makefile
+END
+wpa.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/wpa.h
+END
+preauth.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/preauth.h
+END
+pmksa_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/pmksa_cache.c
+END
+wpa_ft.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/rsn_supp/wpa_ft.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/emoji
+END
+GmojiMaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/emoji/GmojiMaker.cpp
+END
+gmoji_pua_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/emoji/gmoji_pua_table.h
+END
+EmojiFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/emoji/EmojiFont.cpp
+END
+gmojiraw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/emoji/gmojiraw.txt
+END
+EmojiFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/emoji/EmojiFont.h
+END

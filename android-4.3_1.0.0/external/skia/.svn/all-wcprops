@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/NOTICE
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/PRESUBMIT.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/LICENSE
+END
+CleanSpec.mk
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/CleanSpec.mk
+END
+skia.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/skia.gyp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/Android.mk
+END
+gyp_skia
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp_skia
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/DEPS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/README
+END
+MODULE_LICENSE_BSD
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/MODULE_LICENSE_BSD
+END

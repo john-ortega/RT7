@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/include/utils/win
+END
+SkIStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/include/utils/win/SkIStream.h
+END
+SkHRESULT.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/include/utils/win/SkHRESULT.h
+END
+SkTScopedComPtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/include/utils/win/SkTScopedComPtr.h
+END
+SkAutoCoInitialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/include/utils/win/SkAutoCoInitialize.h
+END

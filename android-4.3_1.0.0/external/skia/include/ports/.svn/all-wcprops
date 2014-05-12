@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/ports
+END
+SkTypeface_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/ports/SkTypeface_win.h
+END
+SkTypeface_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/ports/SkTypeface_android.h
+END
+SkTypeface_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/ports/SkTypeface_mac.h
+END
+SkHarfBuzzFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/include/ports/SkHarfBuzzFont.h
+END

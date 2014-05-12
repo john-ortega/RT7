@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/run.sh
+END
+bench_pictures_cfg_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/bench_pictures_cfg_test.py
+END
+rebaseline.sh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/rebaseline.sh
+END

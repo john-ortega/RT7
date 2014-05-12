@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects
+END
+SkCornerPathEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkCornerPathEffect.cpp
+END
+SkBlurMaskFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkBlurMaskFilter.cpp
+END
+SkTransparentShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkTransparentShader.cpp
+END
+SkAvoidXfermode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkAvoidXfermode.cpp
+END
+SkTableColorFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkTableColorFilter.cpp
+END
+SkBitmapSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkBitmapSource.cpp
+END
+SkColorFilterImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkColorFilterImageFilter.cpp
+END
+Sk2DPathEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/Sk2DPathEffect.cpp
+END
+SkBlurDrawLooper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkBlurDrawLooper.cpp
+END
+SkPixelXorXfermode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkPixelXorXfermode.cpp
+END
+SkColorFilters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkColorFilters.cpp
+END
+SkMergeImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkMergeImageFilter.cpp
+END
+SkMorphologyImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkMorphologyImageFilter.cpp
+END
+SkImageFilterUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkImageFilterUtils.cpp
+END
+SkEmbossMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkEmbossMask.h
+END
+SkBicubicImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkBicubicImageFilter.cpp
+END
+SkTableMaskFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkTableMaskFilter.cpp
+END
+SkSingleInputImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkSingleInputImageFilter.cpp
+END
+SkLayerDrawLooper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkLayerDrawLooper.cpp
+END
+SkPaintFlagsDrawFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkPaintFlagsDrawFilter.cpp
+END
+SkEmbossMask_Table.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkEmbossMask_Table.h
+END
+SkPorterDuff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkPorterDuff.cpp
+END
+SkDisplacementMapEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkDisplacementMapEffect.cpp
+END
+SkBlurMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkBlurMask.h
+END
+SkLayerRasterizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkLayerRasterizer.cpp
+END
+SkDiscretePathEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkDiscretePathEffect.cpp
+END
+SkBlendImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkBlendImageFilter.cpp
+END
+Sk1DPathEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/Sk1DPathEffect.cpp
+END
+SkArithmeticMode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkArithmeticMode.cpp
+END
+SkOffsetImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkOffsetImageFilter.cpp
+END
+SkStippleMaskFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkStippleMaskFilter.cpp
+END
+SkColorMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkColorMatrix.cpp
+END
+SkEmbossMask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkEmbossMask.cpp
+END
+SkKernel33MaskFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkKernel33MaskFilter.cpp
+END
+SkDashPathEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkDashPathEffect.cpp
+END
+SkColorMatrixFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkColorMatrixFilter.cpp
+END
+SkMagnifierImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkMagnifierImageFilter.cpp
+END
+SkEmbossMaskFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkEmbossMaskFilter.cpp
+END
+SkTestImageFilters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkTestImageFilters.cpp
+END
+SkMatrixConvolutionImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkMatrixConvolutionImageFilter.cpp
+END
+SkBlurImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkBlurImageFilter.cpp
+END
+SkLightingImageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkLightingImageFilter.cpp
+END
+SkBlurMask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/effects/SkBlurMask.cpp
+END

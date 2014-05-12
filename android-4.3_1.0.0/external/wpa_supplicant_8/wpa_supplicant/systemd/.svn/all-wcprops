@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/systemd
+END
+wpa_supplicant.service.arg.in
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/systemd/wpa_supplicant.service.arg.in
+END
+wpa_supplicant-nl80211.service.arg.in
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/systemd/wpa_supplicant-nl80211.service.arg.in
+END
+wpa_supplicant-wired.service.arg.in
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/systemd/wpa_supplicant-wired.service.arg.in
+END
+wpa_supplicant.service.in
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/systemd/wpa_supplicant.service.in
+END

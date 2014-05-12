@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu
+END
+GrMemory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrMemory.cpp
+END
+GrSWMaskHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrSWMaskHelper.h
+END
+GrInOrderDrawBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrInOrderDrawBuffer.cpp
+END
+GrTextStrike.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrTextStrike.h
+END
+GrVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrVertexBuffer.h
+END
+GrClipData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrClipData.cpp
+END
+GrTextureAccess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrTextureAccess.cpp
+END
+GrAllocPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAllocPool.cpp
+END
+GrRenderTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrRenderTarget.cpp
+END
+GrPathRendererChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrPathRendererChain.cpp
+END
+GrAARectRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAARectRenderer.cpp
+END
+GrSurface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrSurface.cpp
+END
+GrPlotMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrPlotMgr.h
+END
+GrTextContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrTextContext.cpp
+END
+GrGeometryBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrGeometryBuffer.h
+END
+GrStencilAndCoverPathRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrStencilAndCoverPathRenderer.h
+END
+GrStencilBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrStencilBuffer.h
+END
+GrTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrTexture.cpp
+END
+GrAtlas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAtlas.cpp
+END
+GrSWMaskHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrSWMaskHelper.cpp
+END
+GrRectanizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrRectanizer.cpp
+END
+GrStencil.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrStencil.h
+END
+FlingState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/FlingState.cpp
+END
+GrAAConvexPathRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAAConvexPathRenderer.cpp
+END
+GrInOrderDrawBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrInOrderDrawBuffer.h
+END
+GrCacheID.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrCacheID.cpp
+END
+GrPathUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrPathUtils.h
+END
+GrGeometryBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrGeometryBuffer.cpp
+END
+GrStencilAndCoverPathRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrStencilAndCoverPathRenderer.cpp
+END
+GrPathRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrPathRenderer.h
+END
+GrAllocPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAllocPool.h
+END
+GrBinHashKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrBinHashKey.h
+END
+GrStencilBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrStencilBuffer.cpp
+END
+GrRedBlackTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrRedBlackTree.h
+END
+GrClipMaskCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrClipMaskCache.h
+END
+SkGrTexturePixelRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/SkGrTexturePixelRef.cpp
+END
+GrClipMaskManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrClipMaskManager.cpp
+END
+GrDrawState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrDrawState.cpp
+END
+SkGrFontScaler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/SkGrFontScaler.cpp
+END
+GrStencil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrStencil.cpp
+END
+GrMemoryPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrMemoryPool.cpp
+END
+GrDrawTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrDrawTarget.cpp
+END
+GrIndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrIndexBuffer.h
+END
+GrAAHairLinePathRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAAHairLinePathRenderer.h
+END
+GrRectanizer_fifo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrRectanizer_fifo.cpp
+END
+GrAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAtlas.h
+END
+GrRectanizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrRectanizer.h
+END
+GrPathUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrPathUtils.cpp
+END
+GrAAConvexPathRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAAConvexPathRenderer.h
+END
+GrBufferAllocPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrBufferAllocPool.cpp
+END
+GrResourceCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrResourceCache.h
+END
+SkGpuDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/SkGpuDevice.cpp
+END
+GrPathRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrPathRenderer.cpp
+END
+GrAddPathRenderers_default.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAddPathRenderers_default.cpp
+END
+GrContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrContext.cpp
+END
+GrClipMaskCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrClipMaskCache.cpp
+END
+GrReducedClip.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrReducedClip.h
+END
+GrDefaultPathRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrDefaultPathRenderer.cpp
+END
+GrPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrPath.cpp
+END
+GrEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrEffect.cpp
+END
+GrTextStrike_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrTextStrike_impl.h
+END
+GrSoftwarePathRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrSoftwarePathRenderer.cpp
+END
+GrGpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrGpu.h
+END
+GrTHashCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrTHashCache.h
+END
+GrAAHairLinePathRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAAHairLinePathRenderer.cpp
+END
+GrClipMaskManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrClipMaskManager.h
+END
+GrDrawState.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrDrawState.h
+END
+GrTextStrike.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrTextStrike.cpp
+END
+GrMemoryPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrMemoryPool.h
+END
+GrDrawTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrDrawTarget.h
+END
+GrResourceCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrResourceCache.cpp
+END
+SkGrPixelRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/SkGrPixelRef.cpp
+END
+SkGr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/SkGr.cpp
+END
+GrReducedClip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrReducedClip.cpp
+END
+GrGpuFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrGpuFactory.cpp
+END
+GrBufferAllocPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrBufferAllocPool.h
+END
+GrAllocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAllocator.h
+END
+GrResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrResource.cpp
+END
+GrGpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrGpu.cpp
+END
+GrDefaultPathRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrDefaultPathRenderer.h
+END
+GrGpuVertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrGpuVertex.h
+END
+GrAddPathRenderers_none.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrAddPathRenderers_none.cpp
+END
+GrTBSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrTBSearch.h
+END
+GrPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrPath.h
+END
+gr_unittests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/gr_unittests.cpp
+END
+GrSoftwarePathRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrSoftwarePathRenderer.h
+END
+GrTemplates.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/GrTemplates.h
+END

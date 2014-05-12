@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/tests
+END
+link_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/tests/link_test.c
+END
+test_eap_sim_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/tests/test_eap_sim_common.c
+END
+test_wpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/tests/test_wpa.c
+END

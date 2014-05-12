@@ -1,0 +1,541 @@
+10
+
+dir
+4806
+https://10.1.36.9:4430/svn_repos/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external
+https://10.1.36.9:4430/svn_repos
+
+
+
+2013-12-06T00:57:09.539913Z
+4806
+paramod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1a782012-090f-7148-b8aa-deb7117e9e39
+
+libffi
+dir
+
+ping
+dir
+
+smack
+dir
+
+apache-http
+dir
+
+ppp
+dir
+
+eclipse-windowbuilder
+dir
+
+ipsec-tools
+dir
+
+arduino
+dir
+
+mksh
+dir
+
+gcc-demangle
+dir
+
+quake
+dir
+
+stlport
+dir
+
+google-diff-match-patch
+dir
+
+bison
+dir
+
+neven
+dir
+
+openfst
+dir
+
+oprofile
+dir
+
+tremolo
+dir
+
+libxslt
+dir
+
+liblzf
+dir
+
+hyphenation
+dir
+
+elfutils
+dir
+
+blktrace
+dir
+
+yaffs2
+dir
+
+busybox
+dir
+
+webp
+dir
+
+xmlwriter
+dir
+
+zxing
+dir
+
+javasqlite
+dir
+
+smali
+dir
+
+icu4c
+dir
+
+ceres-solver
+dir
+
+iproute2
+dir
+
+apache-xml
+dir
+
+markdown
+dir
+
+aac
+dir
+
+fsl_imx_omx
+dir
+
+stressapptest
+dir
+
+sepolicy
+dir
+
+eigen
+dir
+
+srtp
+dir
+
+opencv
+dir
+
+libvorbis
+dir
+
+srec
+dir
+
+apache-harmony
+dir
+
+giflib
+dir
+
+bsdiff
+dir
+
+netperf
+dir
+
+eclipse-basebuilder
+dir
+
+flac
+dir
+
+littlemock
+dir
+
+android-mock
+dir
+
+qemu
+dir
+
+jack
+dir
+
+libxml2
+dir
+
+llvm
+dir
+
+jhead
+dir
+
+linux-test
+dir
+
+openssh
+dir
+
+antlr
+dir
+
+objenesis
+dir
+
+strace
+dir
+
+openssl
+dir
+
+mdnsresponder
+dir
+
+chromium
+dir
+
+freetype
+dir
+
+eyes-free
+dir
+
+jpeg
+dir
+
+tinyxml2
+dir
+
+kernel-headers
+dir
+
+libnfc-nxp
+dir
+
+naver-fonts
+dir
+
+guava
+dir
+
+libogg
+dir
+
+powerdebug
+dir
+
+iptables
+dir
+
+libvpx
+dir
+
+linux-firmware-imx
+dir
+
+noto-fonts
+dir
+
+doclava
+dir
+
+xmp_toolkit
+dir
+
+libphonenumber
+dir
+
+tcpdump
+dir
+
+libselinux
+dir
+
+libusb
+dir
+
+ntfs-3g
+dir
+
+jdiff
+dir
+
+mtd-utils
+dir
+
+speex
+dir
+
+tinyalsa
+dir
+
+linux-tools-perf
+dir
+
+harfbuzz
+dir
+
+checkpolicy
+dir
+
+v8
+dir
+
+open-vcdiff
+dir
+
+regex-re2
+dir
+
+libusb-compat
+dir
+
+android-clat
+dir
+
+ganymed-ssh2
+dir
+
+embunit
+dir
+
+linux-lib
+dir
+
+safe-iop
+dir
+
+nist-pkits
+dir
+
+bluetooth
+dir
+
+javassist
+dir
+
+robolectric
+dir
+
+okhttp
+dir
+
+e2fsprogs
+dir
+
+libpcap
+dir
+
+libpng
+dir
+
+esd
+dir
+
+harfbuzz_ng
+dir
+
+ping6
+dir
+
+webkit
+dir
+
+libmtp
+dir
+
+junit
+dir
+
+libcap-ng
+dir
+
+dropbear
+dir
+
+svox
+dir
+
+dexmaker
+dir
+
+jmonkeyengine
+dir
+
+libnfc-nci
+dir
+
+mockito
+dir
+
+sonivox
+dir
+
+nist-sip
+dir
+
+libnl-headers
+dir
+
+replicaisland
+dir
+
+jmdns
+dir
+
+easymock
+dir
+
+mp4parser
+dir
+
+netcat
+dir
+
+jsilver
+dir
+
+emma
+dir
+
+oauth
+dir
+
+wpa_supplicant_8
+dir
+
+expat
+dir
+
+jsr305
+dir
+
+webrtc
+dir
+
+gtest
+dir
+
+fsck_msdos
+dir
+
+fdlibm
+dir
+
+compiler-rt
+dir
+
+apache-qp
+dir
+
+grub
+dir
+
+sqlite
+dir
+
+qemu-pc-bios
+dir
+
+ant-glob
+dir
+
+genext2fs
+dir
+
+libyuv
+dir
+
+marisa-trie
+dir
+
+mockwebserver
+dir
+
+chromium-trace
+dir
+
+tagsoup
+dir
+
+bzip2
+dir
+
+libppp
+dir
+
+bouncycastle
+dir
+
+protobuf
+dir
+
+zlib
+dir
+
+timezonepicker-support
+dir
+
+tinyxml
+dir
+
+mtpd
+dir
+
+valgrind
+dir
+
+hamcrest
+dir
+
+dnsmasq
+dir
+
+libsepol
+dir
+
+libgsm
+dir
+
+proguard
+dir
+
+clang
+dir
+
+dhcpcd
+dir
+
+skia
+dir
+
+libusb_aah
+dir
+

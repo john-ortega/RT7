@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp
+END
+core.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/core.gypi
+END
+tests.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/tests.gyp
+END
+FileReaderApp.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/FileReaderApp.gyp
+END
+images.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/images.gyp
+END
+SimpleiOSApp.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/SimpleiOSApp.gyp
+END
+shapeops_edge.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/shapeops_edge.gyp
+END
+ports.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/ports.gyp
+END
+animator.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/animator.gyp
+END
+sfnt.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/sfnt.gyp
+END
+xps.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/xps.gyp
+END
+libjpeg.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/libjpeg.gyp
+END
+jsoncpp.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/jsoncpp.gyp
+END
+shapeops_tool.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/shapeops_tool.gyp
+END
+everything.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/everything.gyp
+END
+opts.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/opts.gyp
+END
+effects.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/effects.gypi
+END
+bench.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/bench.gypi
+END
+common_conditions.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/common_conditions.gypi
+END
+android_deps.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/android_deps.gyp
+END
+experimental.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/experimental.gyp
+END
+views.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/views.gyp
+END
+utils.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/utils.gyp
+END
+xml.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/xml.gyp
+END
+common.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/common.gypi
+END
+gm.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/gm.gyp
+END
+gpu.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/gpu.gypi
+END
+pdf.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/pdf.gyp
+END
+nacl.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/nacl.gyp
+END
+apptype_console.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/apptype_console.gypi
+END
+effects.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/effects.gyp
+END
+bench.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/bench.gyp
+END
+gmslides.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/gmslides.gypi
+END
+most.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/most.gyp
+END
+SampleApp.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/SampleApp.gyp
+END
+freetype.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/freetype.gyp
+END
+debugger.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/debugger.gyp
+END
+android_system.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/android_system.gyp
+END
+angle.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/angle.gyp
+END
+shapeops_demo.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/shapeops_demo.gyp
+END
+core.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/core.gyp
+END
+common_variables.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/common_variables.gypi
+END
+skia_base_libs.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/skia_base_libs.gyp
+END
+gpu.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/gpu.gyp
+END
+pixman_test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/pixman_test.gyp
+END
+SimpleCocoaApp.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/SimpleCocoaApp.gyp
+END
+svg.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/svg.gyp
+END
+views_animated.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/views_animated.gyp
+END
+tools.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/tools.gyp
+END
+zlib.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gyp/zlib.gyp
+END

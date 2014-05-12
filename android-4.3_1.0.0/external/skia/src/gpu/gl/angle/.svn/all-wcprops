@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/gl/angle
+END
+GrGLCreateANGLEInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/gl/angle/GrGLCreateANGLEInterface.cpp
+END
+SkANGLEGLContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/gl/angle/SkANGLEGLContext.cpp
+END

@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils
+END
+SkParsePath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkParsePath.cpp
+END
+SkThreadUtils_pthread_mach.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkThreadUtils_pthread_mach.cpp
+END
+SkCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkCamera.cpp
+END
+SkFloatUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkFloatUtils.h
+END
+SkRTConf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkRTConf.cpp
+END
+SkCullPoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkCullPoints.cpp
+END
+SkPictureUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkPictureUtils.cpp
+END
+SkSHA1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkSHA1.cpp
+END
+SkBitSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkBitSet.h
+END
+SkBitmapTransformer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkBitmapTransformer.cpp
+END
+SkThreadUtils_pthread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkThreadUtils_pthread.cpp
+END
+SkThreadUtils_pthread_other.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkThreadUtils_pthread_other.cpp
+END
+SkDumpCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkDumpCanvas.cpp
+END
+SkBitmapChecksummer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkBitmapChecksummer.cpp
+END
+SkBoundaryPatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkBoundaryPatch.cpp
+END
+SkUnitMappers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkUnitMappers.cpp
+END
+SkJSON.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkJSON.cpp
+END
+SkParseColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkParseColor.cpp
+END
+SkThreadUtils_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkThreadUtils_win.h
+END
+SkMatrix44.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkMatrix44.cpp
+END
+SkDeferredCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkDeferredCanvas.cpp
+END
+SkCityHash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkCityHash.cpp
+END
+SkBase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkBase64.h
+END
+SkMD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkMD5.h
+END
+SkBitSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkBitSet.cpp
+END
+SkCubicInterval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkCubicInterval.cpp
+END
+SkCondVar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkCondVar.cpp
+END
+SkThreadUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkThreadUtils.h
+END
+SkSHA1.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkSHA1.h
+END
+SkThreadPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkThreadPool.cpp
+END
+SkBitmapTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkBitmapTransformer.h
+END
+SkThreadUtils_pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkThreadUtils_pthread.h
+END
+SkThreadUtils_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkThreadUtils_win.cpp
+END
+SkNullCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkNullCanvas.cpp
+END
+SkBitmapChecksummer.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkBitmapChecksummer.h
+END
+SkNinePatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkNinePatch.cpp
+END
+SkNWayCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkNWayCanvas.cpp
+END
+SkDebugTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkDebugTrace.h
+END
+SkParse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkParse.cpp
+END
+SkLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkLayer.cpp
+END
+SkMeshUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkMeshUtils.cpp
+END
+SkProxyCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkProxyCanvas.cpp
+END
+SkThreadUtils_pthread_linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkThreadUtils_pthread_linux.cpp
+END
+SkCountdown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkCountdown.cpp
+END
+SkOSFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkOSFile.cpp
+END
+SkCityHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkCityHash.h
+END
+SkInterpolator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkInterpolator.cpp
+END
+SkBase64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkBase64.cpp
+END
+SkMD5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/utils/SkMD5.cpp
+END

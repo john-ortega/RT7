@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/examples/p2p
+END
+p2p_invite.py
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/examples/p2p/p2p_invite.py
+END
+p2p_listen.py
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/examples/p2p/p2p_listen.py
+END
+p2p_find.py
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/examples/p2p/p2p_find.py
+END
+p2p_flush.py
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/examples/p2p/p2p_flush.py
+END
+p2p_group_add.py
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/examples/p2p/p2p_group_add.py
+END
+p2p_stop_find.py
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/examples/p2p/p2p_stop_find.py
+END
+p2p_connect.py
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/examples/p2p/p2p_connect.py
+END
+p2p_disconnect.py
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/examples/p2p/p2p_disconnect.py
+END

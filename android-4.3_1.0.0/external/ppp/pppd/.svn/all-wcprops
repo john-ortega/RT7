@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd
+END
+sys-linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/sys-linux.c
+END
+magic.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/magic.c
+END
+pppcrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/pppcrypt.c
+END
+ipxcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ipxcp.c
+END
+md4.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/md4.c
+END
+magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/magic.h
+END
+pppcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/pppcrypt.h
+END
+pppd.8
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/pppd.8
+END
+ipxcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ipxcp.h
+END
+demand.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/demand.c
+END
+md4.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/md4.h
+END
+chap-new.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/chap-new.c
+END
+srp-entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/srp-entry.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/Android.mk
+END
+eap.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/eap.c
+END
+cbcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/cbcp.c
+END
+chap-new.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/chap-new.h
+END
+ipv6cp.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ipv6cp.c
+END
+Makefile.sol2
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/Makefile.sol2
+END
+eap.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/eap.h
+END
+ipv6cp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ipv6cp.h
+END
+cbcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/cbcp.h
+END
+ThirdPartyProject.prop
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ThirdPartyProject.prop
+END
+tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/tty.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/main.c
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/pathnames.h
+END
+fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/fsm.c
+END
+sys-solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/sys-solaris.c
+END
+fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/fsm.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/options.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/utils.c
+END
+upap.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/upap.c
+END
+pppd.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/pppd.h
+END
+upap.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/upap.h
+END
+chap_ms.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/chap_ms.c
+END
+chap_ms.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/chap_ms.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/md5.c
+END
+README.google
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/README.google
+END
+ppp.pam
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ppp.pam
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/md5.h
+END
+eui64.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/eui64.c
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/NOTICE
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/auth.c
+END
+eui64.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/eui64.h
+END
+openssl-hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/openssl-hash.c
+END
+ccp.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ccp.c
+END
+pppox.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/pppox.c
+END
+ecp.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ecp.c
+END
+openssl-hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/openssl-hash.h
+END
+ccp.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ccp.h
+END
+ecp.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ecp.h
+END
+lcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/lcp.c
+END
+chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/chat.c
+END
+lcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/lcp.h
+END
+srp-entry.8
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/srp-entry.8
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/Makefile.linux
+END
+ipcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ipcp.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/sha1.c
+END
+patchlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/patchlevel.h
+END
+chap-md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/chap-md5.c
+END
+MODULE_LICENSE_BSD
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/MODULE_LICENSE_BSD
+END
+ipcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/ipcp.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/sha1.h
+END
+chap-md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/chap-md5.h
+END

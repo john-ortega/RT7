@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/baseDir/different-bits
+END
+different-bits-unknown-format.xyz
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/baseDir/different-bits/different-bits-unknown-format.xyz
+END
+slightly-different-sizes.png
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/baseDir/different-bits/slightly-different-sizes.png
+END
+slightly-different-pixels-same-size.png
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/baseDir/different-bits/slightly-different-pixels-same-size.png
+END
+different-bits-identical-pixels.png
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/baseDir/different-bits/different-bits-identical-pixels.png
+END
+very-different-sizes.png
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/baseDir/different-bits/very-different-sizes.png
+END
+very-different-pixels-same-size.png
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/baseDir/different-bits/very-different-pixels-same-size.png
+END

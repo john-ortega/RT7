@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test2/output-expected
+END
+stdout
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test2/output-expected/stdout
+END
+command_line
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test2/output-expected/command_line
+END
+return_value
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test2/output-expected/return_value
+END

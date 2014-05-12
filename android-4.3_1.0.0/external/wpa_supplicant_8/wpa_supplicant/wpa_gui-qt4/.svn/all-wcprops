@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4
+END
+userdatarequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/userdatarequest.cpp
+END
+peers.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/peers.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/.gitignore
+END
+networkconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/networkconfig.h
+END
+stringquery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/stringquery.cpp
+END
+wpagui.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/wpagui.h
+END
+signalbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/signalbar.cpp
+END
+wpamsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/wpamsg.h
+END
+eventhistory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/eventhistory.cpp
+END
+wpa_gui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/wpa_gui.pro
+END
+peers.ui
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/peers.ui
+END
+scanresults.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/scanresults.h
+END
+userdatarequest.ui
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/userdatarequest.ui
+END
+addinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/addinterface.h
+END
+icons.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/icons.qrc
+END
+peers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/peers.cpp
+END
+networkconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/networkconfig.cpp
+END
+wpa_gui.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/wpa_gui.desktop
+END
+icons_png.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/icons_png.qrc
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/main.cpp
+END
+userdatarequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/userdatarequest.h
+END
+wpagui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/wpagui.ui
+END
+wpagui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/wpagui.cpp
+END
+eventhistory.ui
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/eventhistory.ui
+END
+stringquery.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/stringquery.h
+END
+scanresults.ui
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/scanresults.ui
+END
+scanresults.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/scanresults.cpp
+END
+signalbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/signalbar.h
+END
+eventhistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/eventhistory.h
+END
+addinterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/addinterface.cpp
+END
+networkconfig.ui
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/wpa_gui-qt4/networkconfig.ui
+END

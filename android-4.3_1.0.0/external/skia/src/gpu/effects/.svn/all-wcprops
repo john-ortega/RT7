@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects
+END
+GrSingleTextureEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrSingleTextureEffect.h
+END
+GrTextureDomainEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrTextureDomainEffect.cpp
+END
+Gr1DKernelEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/Gr1DKernelEffect.h
+END
+GrSimpleTextureEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrSimpleTextureEffect.cpp
+END
+GrTextureStripAtlas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrTextureStripAtlas.cpp
+END
+GrConfigConversionEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrConfigConversionEffect.cpp
+END
+GrTextureDomainEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrTextureDomainEffect.h
+END
+GrConvolutionEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrConvolutionEffect.cpp
+END
+GrSimpleTextureEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrSimpleTextureEffect.h
+END
+GrTextureStripAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrTextureStripAtlas.h
+END
+GrConfigConversionEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrConfigConversionEffect.h
+END
+GrSingleTextureEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrSingleTextureEffect.cpp
+END
+GrConvolutionEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/effects/GrConvolutionEffect.h
+END

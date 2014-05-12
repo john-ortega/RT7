@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test1/output-expected
+END
+command_line
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test1/output-expected/command_line
+END
+different-bits_slightly-different-pixels-same-size-white.png
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test1/output-expected/different-bits_slightly-different-pixels-same-size-white.png
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test1/output-expected/index.html
+END
+return_value
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test1/output-expected/return_value
+END
+different-bits_very-different-pixels-same-size-white.png
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test1/output-expected/different-bits_very-different-pixels-same-size-white.png
+END
+different-bits_slightly-different-pixels-same-size-diff.png
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test1/output-expected/different-bits_slightly-different-pixels-same-size-diff.png
+END
+stdout
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test1/output-expected/stdout
+END
+different-bits_very-different-pixels-same-size-diff.png
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/test1/output-expected/different-bits_very-different-pixels-same-size-diff.png
+END

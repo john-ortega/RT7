@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images
+END
+SkImageDecoder_libpng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageDecoder_libpng.cpp
+END
+SkImageDecoder_libjpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageDecoder_libjpeg.cpp
+END
+SkMovie_gif.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkMovie_gif.cpp
+END
+SkFDStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkFDStream.cpp
+END
+SkCreateRLEPixelRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkCreateRLEPixelRef.cpp
+END
+SkBitmapRegionDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkBitmapRegionDecoder.cpp
+END
+bmpdecoderhelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/bmpdecoderhelper.cpp
+END
+SkImageDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageDecoder.cpp
+END
+SkBitmap_RLEPixels.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkBitmap_RLEPixels.h
+END
+SkImageEncoder_Factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageEncoder_Factory.cpp
+END
+SkImageRefPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageRefPool.cpp
+END
+SkJpegUtility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkJpegUtility.cpp
+END
+bmpdecoderhelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/bmpdecoderhelper.h
+END
+SkImageDecoder_libwebp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageDecoder_libwebp.cpp
+END
+SkScaledBitmapSampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkScaledBitmapSampler.cpp
+END
+SkImageRefPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageRefPool.h
+END
+SkImageRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageRef.cpp
+END
+SkMovie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkMovie.cpp
+END
+SkScaledBitmapSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkScaledBitmapSampler.h
+END
+SkImageEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageEncoder.cpp
+END
+SkImageDecoder_libgif.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageDecoder_libgif.cpp
+END
+SkImageDecoder_libico.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageDecoder_libico.cpp
+END
+SkFlipPixelRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkFlipPixelRef.cpp
+END
+SkImageRef_GlobalPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageRef_GlobalPool.cpp
+END
+SkImageDecoder_wbmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageDecoder_wbmp.cpp
+END
+SkImageDecoder_libbmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageDecoder_libbmp.cpp
+END
+SkPageFlipper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkPageFlipper.cpp
+END
+SkImageDecoder_Factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/legacy/src/images/SkImageDecoder_Factory.cpp
+END

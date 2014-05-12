@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe
+END
+if.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe/if.c
+END
+plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe/plugin.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe/debug.c
+END
+discovery.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe/discovery.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe/common.c
+END
+pppoe-discovery.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe/pppoe-discovery.c
+END
+pppoe.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe/pppoe.h
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe/Makefile.linux
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/rp-pppoe/config.h
+END

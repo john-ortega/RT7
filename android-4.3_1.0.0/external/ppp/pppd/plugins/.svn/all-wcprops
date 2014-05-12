@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins
+END
+minconn.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/minconn.c
+END
+passprompt.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/passprompt.c
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/Makefile.linux
+END
+Makefile.sol2
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/Makefile.sol2
+END
+winbind.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/winbind.c
+END
+passwordfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/passwordfd.c
+END

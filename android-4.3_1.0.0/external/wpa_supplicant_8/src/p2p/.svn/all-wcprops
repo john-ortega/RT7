@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p
+END
+p2p_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_i.h
+END
+p2p_go_neg.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_go_neg.c
+END
+p2p_build.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_build.c
+END
+p2p.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p.c
+END
+p2p_dev_disc.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_dev_disc.c
+END
+p2p_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_utils.c
+END
+p2p_pd.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_pd.c
+END
+p2p_invitation.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_invitation.c
+END
+p2p.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p.h
+END
+p2p_sd.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_sd.c
+END
+p2p_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_parse.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/Makefile
+END
+p2p_group.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/p2p/p2p_group.c
+END

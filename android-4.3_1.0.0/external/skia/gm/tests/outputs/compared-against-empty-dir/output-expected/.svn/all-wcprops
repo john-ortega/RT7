@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gm/tests/outputs/compared-against-empty-dir/output-expected
+END
+json-summary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gm/tests/outputs/compared-against-empty-dir/output-expected/json-summary.txt
+END
+stdout
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gm/tests/outputs/compared-against-empty-dir/output-expected/stdout
+END
+command_line
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gm/tests/outputs/compared-against-empty-dir/output-expected/command_line
+END
+return_value
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gm/tests/outputs/compared-against-empty-dir/output-expected/return_value
+END

@@ -1,0 +1,49 @@
+10
+
+dir
+4825
+https://10.1.36.9:4430/svn_repos/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/gm/tests/outputs
+https://10.1.36.9:4430/svn_repos
+
+
+
+2013-12-06T13:48:37.570877Z
+4825
+paramod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1a782012-090f-7148-b8aa-deb7117e9e39
+
+aaclip-write
+dir
+
+no-readpath
+dir
+
+aaclip-readback
+dir
+
+compared-against-different-pixels
+dir
+
+compared-against-empty-dir
+dir
+
+compared-against-identical-pixels
+dir
+
+compared-against-identical-bytes
+dir
+

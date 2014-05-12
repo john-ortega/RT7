@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc
+END
+dictionary
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/dictionary
+END
+dictionary.compat
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/dictionary.compat
+END
+issue
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/issue
+END
+dictionary.microsoft
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/dictionary.microsoft
+END
+port-id-map
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/port-id-map
+END
+servers
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/servers
+END
+radiusclient.conf
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/radiusclient.conf
+END
+radiusclient.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/radiusclient.conf.in
+END
+dictionary.ascend
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/dictionary.ascend
+END
+realms
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/realms
+END
+dictionary.merit
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/etc/dictionary.merit
+END

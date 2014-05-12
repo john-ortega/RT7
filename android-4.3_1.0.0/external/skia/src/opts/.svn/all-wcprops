@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts
+END
+SkBitmapProcState_filter_neon.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_filter_neon.h
+END
+memset.arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/memset.arm.S
+END
+SkBitmapProcState_opts_SSSE3.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_opts_SSSE3.h
+END
+SkBlitRow_opts_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBlitRow_opts_arm.h
+END
+memset32_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/memset32_neon.S
+END
+SkUtils_opts_SSE2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkUtils_opts_SSE2.cpp
+END
+SkBitmapProcState_opts_SSE2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_opts_SSE2.cpp
+END
+memset16_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/memset16_neon.S
+END
+SkBitmapProcState_opts_arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_opts_arm.cpp
+END
+SkBlitRow_opts_arm_neon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBlitRow_opts_arm_neon.cpp
+END
+SkBlitRow_opts_none.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBlitRow_opts_none.cpp
+END
+SkUtils_opts_SSE2.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkUtils_opts_SSE2.h
+END
+SkBitmapProcState_opts_SSE2.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_opts_SSE2.h
+END
+SkBlitRect_opts_SSE2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBlitRect_opts_SSE2.cpp
+END
+SkBitmapProcState_matrix_repeat_neon.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_matrix_repeat_neon.h
+END
+SkBitmapProcState_matrixProcs_neon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_matrixProcs_neon.cpp
+END
+SkBlitRect_opts_SSE2.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBlitRect_opts_SSE2.h
+END
+SkCachePreload_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkCachePreload_arm.h
+END
+SkBitmapProcState_arm_neon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_arm_neon.cpp
+END
+opts_check_SSE2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/opts_check_SSE2.cpp
+END
+SkBlitRow_opts_SSE2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBlitRow_opts_SSE2.cpp
+END
+opts_check_arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/opts_check_arm.cpp
+END
+SkUtils_opts_none.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkUtils_opts_none.cpp
+END
+SkBitmapProcState_opts_none.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_opts_none.cpp
+END
+SkBitmapProcState_matrix_clamp_neon.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_matrix_clamp_neon.h
+END
+SkBitmapProcState_opts_SSSE3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBitmapProcState_opts_SSSE3.cpp
+END
+SkBlitRow_opts_arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBlitRow_opts_arm.cpp
+END
+SkBlitRow_opts_SSE2.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/opts/SkBlitRow_opts_SSE2.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook/.gitignore
+END
+wpa_background.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook/wpa_background.sgml
+END
+wpa_priv.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook/wpa_priv.sgml
+END
+wpa_supplicant.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook/wpa_supplicant.sgml
+END
+wpa_gui.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook/wpa_gui.sgml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook/Makefile
+END
+wpa_supplicant.conf.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook/wpa_supplicant.conf.sgml
+END
+wpa_cli.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook/wpa_cli.sgml
+END
+wpa_passphrase.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/wpa_supplicant/doc/docbook/wpa_passphrase.sgml
+END

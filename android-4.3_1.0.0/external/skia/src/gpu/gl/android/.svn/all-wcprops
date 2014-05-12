@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/gl/android
+END
+GrGLCreateNativeInterface_android.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/gl/android/GrGLCreateNativeInterface_android.cpp
+END
+SkNativeGLContext_android.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/src/gpu/gl/android/SkNativeGLContext_android.cpp
+END

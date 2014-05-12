@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps
+END
+upnp_xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/upnp_xml.h
+END
+wps.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps.c
+END
+wps_upnp.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_upnp.c
+END
+http_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/http_client.c
+END
+wps.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps.h
+END
+wps_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_defs.h
+END
+wps_upnp.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_upnp.h
+END
+wps_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_common.c
+END
+http_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/http_client.h
+END
+wps_er_ssdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_er_ssdp.c
+END
+wps_upnp_ap.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_upnp_ap.c
+END
+wps_attr_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_attr_parse.c
+END
+wps_er.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_er.c
+END
+wps_dev_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_dev_attr.c
+END
+wps_attr_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_attr_parse.h
+END
+wps_er.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_er.h
+END
+http_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/http_server.c
+END
+wps_dev_attr.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_dev_attr.h
+END
+wps_upnp_web.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_upnp_web.c
+END
+http_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/http_server.h
+END
+httpread.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/httpread.c
+END
+wps_upnp_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_upnp_event.c
+END
+ndef.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/ndef.c
+END
+httpread.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/httpread.h
+END
+wps_attr_build.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_attr_build.c
+END
+wps_validate.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_validate.c
+END
+http.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/http.h
+END
+wps_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_i.h
+END
+wps_upnp_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_upnp_i.h
+END
+wps_registrar.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_registrar.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/Makefile
+END
+wps_enrollee.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_enrollee.c
+END
+wps_attr_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_attr_process.c
+END
+upnp_xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/upnp_xml.c
+END
+wps_upnp_ssdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn_repos/!svn/ver/4827/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/wpa_supplicant_8/src/wps/wps_upnp_ssdp.c
+END

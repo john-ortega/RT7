@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/options.h
+END
+radattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/radattr.c
+END
+ip_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/ip_util.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/config.c
+END
+buildreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/buildreq.c
+END
+radrealms.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/radrealms.c
+END
+includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/includes.h
+END
+pppd-radius.8
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/pppd-radius.8
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/util.c
+END
+sendserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/sendserver.c
+END
+avpair.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/avpair.c
+END
+dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/dict.c
+END
+pathnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/pathnames.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/md5.c
+END
+pppd-radattr.8
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/pppd-radattr.8
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/COPYRIGHT
+END
+radius.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/radius.c
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/lock.c
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/Makefile.linux
+END
+clientid.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/clientid.c
+END
+radiusclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn_repos/!svn/ver/4822/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/ppp/pppd/plugins/radius/radiusclient.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa
+END
+MODULE_LICENSE_BSD
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/MODULE_LICENSE_BSD
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/pcm.c
+END
+tinypcminfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/tinypcminfo.c
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/NOTICE
+END
+control.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/control.c
+END
+tinymix.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/tinymix.c
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/mixer.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/Android.mk
+END
+tinycap.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/tinycap.c
+END
+tinyplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/tinyplay.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn_repos/!svn/ver/4826/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/tinyalsa/README
+END

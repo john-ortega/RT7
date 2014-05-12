@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/identical-bits/output-expected
+END
+command_line
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/identical-bits/output-expected/command_line
+END
+return_value
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/identical-bits/output-expected/return_value
+END
+stdout
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn_repos/!svn/ver/4825/Projects/ET/ET_RuggedTablet/Software/Trunk/android-4.3_1.0.0/external/skia/tools/tests/skdiff/identical-bits/output-expected/stdout
+END
